@@ -2,6 +2,6 @@
 
 # mce
 
-A programming environment for Minecraft
+###### A programming environment for Minecraft
 
 </div>
